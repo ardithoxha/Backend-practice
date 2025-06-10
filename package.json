@@ -2,6 +2,7 @@
 	"author": "Ardit Hoxha",
 	"name": "fcc-learn-npm-package-json",
 	"description": "A project that does something awesome",
+	"license": "MIT",
 	"keywords": ["freecodecamp", "backend-practice"],
 	"dependencies": {
 		"express": "^4.14.0"
